@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyService</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_stop">Stop</string>
+    <string name="tv_location">Location:</string>
+    <string name="edt_city">City</string>
+    <string name="tv_submit">Show weather</string>
+</resources>
